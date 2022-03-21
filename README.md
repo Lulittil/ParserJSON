@@ -1,3 +1,3 @@
 # ParserJSON
 
-## Sync parser for Test Task, needs optimization
+Sync parser for Test Task, needs optimization
